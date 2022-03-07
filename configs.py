@@ -1,3 +1,3 @@
-v = '0.2'
+v = '1.0'
 name = 'kumara'
 lang = 'python'
